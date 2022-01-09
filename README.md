@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pravinsahu101
 - 👀 I’m interested in embedded/firmware/software domain.
-- 🌱 I’m currently learning linux power driver and management.
-- 💞️ I’m looking to interested in exploring and learning the DSP and software side too.
+- 🌱 I’m currently working on android power driver and management.
+- 💞️ I’m linterested in exploring and learning the firmware/systems side.
 - 📫 How to reach me : pravinsahu101@gmail.com
 
 <!---
